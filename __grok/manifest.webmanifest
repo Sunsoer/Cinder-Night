@@ -1,0 +1,25 @@
+{
+  "name": "Cinder Night",
+  "short_name": "Cinder Night",
+  "id": "/Cinder-Night/",
+  "start_url": "/Cinder-Night/",
+  "scope": "/Cinder-Night/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0806",
+  "theme_color": "#0a0806",
+  "icons": [
+    {
+      "src": "/Cinder-Night/__grok/icon-king-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Cinder-Night/__grok/icon-king-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
