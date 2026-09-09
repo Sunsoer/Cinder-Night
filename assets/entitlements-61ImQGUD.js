@@ -1,1 +1,0 @@
-import{t as e}from"./createServerFn-vnBO8Xm4.js";import{a as t}from"./index-B2fi83qw.js";import{t as n}from"./middleware-Dz5ZlRZL.js";var r=e({method:`GET`}).middleware([n]).handler(t(`3a778ddb70e00bfa2bbeaa00e707832cc53b284332929aa293fa7566f7566e9b`));export{r as listEntitlements};

@@ -1,1 +1,0 @@
-import{t as e}from"./createServerFn-vnBO8Xm4.js";import{a as t}from"./index-B2fi83qw.js";var n=e({method:`POST`}).handler(t(`76353a4cbba6f03c590e9e2db64b52fadf6069300089b5f4f31f510bf99ef515`));export{n as recordGameEvent};
