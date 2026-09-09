@@ -1,1 +1,0 @@
-import{t as e}from"./createServerFn-C3cg_VLI.js";import{a as t}from"./index-DQut9G3g.js";var n=e({method:`POST`}).handler(t(`76353a4cbba6f03c590e9e2db64b52fadf6069300089b5f4f31f510bf99ef515`));export{n as recordGameEvent};
