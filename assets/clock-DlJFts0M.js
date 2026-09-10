@@ -1,0 +1,1 @@
+import{t as e}from"./createServerFn-DKT_UIvK.js";import{a as t}from"./index-CL2DueeY.js";var n=e({method:`GET`}).handler(t(`8aa19ce0c573bc4202bc9b8b72568cdff4ce64a852d1d279872689bd0dffb5c7`));export{n as getDailyClock};
